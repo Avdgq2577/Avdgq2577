@@ -14,3 +14,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+👋 Hi, I'm Avdgq2577!
+🎓 Computer Science Student
+💻 Interested in Full-Stack Development & System Programming
+---
+🛠️ Tech Stack
+Languages: Java, C, Python
+Backend: Spring Boot, Django
+Frontend: HTML, CSS, Bootstrap
+Database: PostgreSQL,MYSQL
+Tools: Git, Linux
+---
+🌟 Top Skills
+Python & Django Framework
+HTML, CSS, Bootstrap
+JAVA, C/C++
+---
+🚀 Projects
+ProActive – Intelligent Time Management Platform
+Recipe Book Website (Python:Django + PostgreSQL + BootstrapCSS) 
+---
+🛠️ Learning to code one project at a time!
+

@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 👋 Hi, I'm Avdgq2577!
 ---
 
-##🎓 Computer Science Student 
-##💻 Interested in Full-Stack Development & System Programming
+## Computer Science Student 
+## Interested in Full-Stack Development & System Programming
 
 ---
 #### 🛠️ Tech Stack ::

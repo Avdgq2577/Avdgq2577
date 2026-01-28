@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Avdgq2577/Avdgq2577** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

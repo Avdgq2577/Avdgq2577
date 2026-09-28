@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 ---
 
 #### 🚀 Projects ::
-- ProActive – Intelligent Time Management Platform
+- MLOPS-LinuxDeamon-For-Automated-AnomalyDetction.
 - Recipe Book Website (Python:Django + PostgreSQL + BootstrapCSS) 
 ---
 

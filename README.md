@@ -53,7 +53,9 @@ Here are some ideas to get you started:
 ---
 
 ## 📊 GitHub Stats
-[https://github-readme-stats.vercel.app/api?username=Avdgq2577](https://github-readme-stats.vercel.app/api?username=Avdgq2577)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Avadgq2577&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
 ---
 
 #### 🛠️ Learning, building, and engineering code one project at a time!
